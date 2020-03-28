@@ -1,0 +1,1 @@
+I am looking to track the Covid19 virus on a county level, starting with Nassau County which is a suburb of NYC. I wish to identify other suburban counties that are at risk or possibly on the same trajectery. 
