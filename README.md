@@ -1,5 +1,4 @@
-I am looking to track the Covid19 virus on a county level, starting with Nassau County which is a suburb of NYC. I wish to identify other suburban counties that are at risk or possibly on the same trajectery. 
-
+I am tracking Covid-19 down to the county level, where I will add daily cumulative reports as released by NY Times. I am plotting this data, to evaluate current state of the virus as it pertains to total cases and deaths, as well as what impact population density has on overall spread of the virus. 
 
 Data on cumulative coronavirus cases and deaths can be found in county-data-clean.csv.
 
